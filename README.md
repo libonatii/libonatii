@@ -1,8 +1,8 @@
 <<div align="center">
 
-# Olá, eu sou a Ana 👋
+# Oi! Eu sou a Ana 👋
 
-### Estudante de Direito • Entusiasta de Tecnologia • Sempre aprendendo algo novo
+### Estudante de Direito • Estagiária do Tribunal de Justiça • Entusiasta em Tecnologia
 
 <p>
 Busco unir pensamento analítico, resolução criativa de problemas e tecnologia para desenvolver soluções eficientes e inovadoras.
@@ -17,55 +17,41 @@ Busco unir pensamento analítico, resolução criativa de problemas e tecnologia
 - 🎓 Estudante de Direito
 - 💡 Interesse em tecnologia, automação e análise de dados
 - 📚 Aprendizado contínuo e desenvolvimento constante
-- 🎯 Foco em criar soluções práticas para problemas reais
+- 🎯 Foco em resolução de problemas
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Desenvolvimento
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Design e Edição
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Sony Vegas](https://img.shields.io/badge/Sony_Vegas-1A5A96?style=for-the-badge)
 
 ### Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
-
-</div>
-
----
 
 ## 🌱 Atualmente estudando
 
 - Desenvolvimento de software
-- Estruturas de dados e algoritmos
-- Automação e produtividade
-- Análise de dados
-
----
-
-## 📫 Contato
-
-<p align="center">
-<a href="https://github.com/SEU_USUARIO">GitHub</a>
-</p>
+- Produtividade aplicada ao Direito
+- Análise de dados aplicados ao Direito
 
 ---
 
 <div align="center">
 
-✨ "Aprender é transformar curiosidade em conhecimento."
+✨ “A justiça do futuro será aquela que equilibrar tradição e inovação.” – Geoffrey C. Hazard Jr.
 
 </div>
