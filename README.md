@@ -26,7 +26,7 @@
 <div align="center">
 
 <a href="https://github.com/libonatii/Lume">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=libonatii&repo=Lume&theme=tokyonight&hide_border=true&border_radius=16" alt="Lume" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=libonatii&repo=Lume&theme=tokyonight&hide_border=true&border_radius=16" alt="Lume" />
 </a>
 
 **Lume** é uma plataforma social de estudos: biblioteca de cursos com importação por link, plano de estudo, sessões, conquistas, amigos e ranking. Tem aplicativo de desktop e extensão de navegador.
@@ -70,16 +70,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=libonatii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libonatii&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Linguagens" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=libonatii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" alt="Estatísticas" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=libonatii&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Linguagens" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=libonatii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Troféus" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=libonatii&bg_color=0d1117&color=7c3aed&line=2563eb&point=f59e0b&area=true&hide_border=true" alt="Gráfico de atividade" />
+<img src="https://streak-stats.demolab.com/?user=libonatii&theme=tokyonight&hide_border=true&border_radius=16&background=00000000" alt="Sequência de contribuições" />
 
 </div>
 
