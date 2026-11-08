@@ -1,57 +1,31 @@
-<<div align="center">
+# Ana
 
-# Oi! Eu sou a Ana 👋
-
-### Estudante de Direito • Estagiária do Tribunal de Justiça • Entusiasta em Tecnologia
-
-<p>
-Busco unir pensamento analítico, resolução criativa de problemas e tecnologia para desenvolver soluções eficientes e inovadoras.
-</p>
-
-</div>
+Estudante de Direito e estagiária do Tribunal de Justiça. Construo software para tornar o estudo e o trabalho mais organizados, com interesse em automação e análise de dados aplicadas ao Direito.
 
 ---
 
-## 🚀 Sobre mim
+## O que construo
 
-- 🎓 Estudante de Direito
-- 💡 Interesse em tecnologia, automação e análise de dados
-- 📚 Aprendizado contínuo e desenvolvimento constante
-- 🎯 Foco em resolução de problemas
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Desenvolvimento
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Design e Edição
-
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Sony Vegas](https://img.shields.io/badge/Sony_Vegas-1A5A96?style=for-the-badge)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-
-## 🌱 Atualmente estudando
-
-- Desenvolvimento de software
-- Produtividade aplicada ao Direito
-- Análise de dados aplicados ao Direito
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [**Lume**](https://github.com/libonatii/Lume) · [site](https://lume.lume-prototype.workers.dev) | Plataforma social de estudos: biblioteca de cursos com importação por link, plano de estudo, sessões, conquistas, amigos e ranking. Inclui aplicativo de desktop e extensão de navegador. | JavaScript, React, Astro, Electron, Cloudflare Workers, GitHub Actions |
+| [EstudosLogica](https://github.com/libonatii/EstudosLogica) | Exercícios e estudos de lógica de programação. | HTML |
 
 ---
 
-<div align="center">
+## O que uso
 
-✨ “A justiça do futuro será aquela que equilibrar tradição e inovação.” – Geoffrey C. Hazard Jr.
+**Desenvolvimento:** JavaScript · React · Astro · Node.js · HTML · CSS
+**Ferramentas:** Git · GitHub · GitHub Actions · VS Code
+**Criação:** Photoshop · Premiere Pro · Sony Vegas
 
-</div>
+---
+
+## Atualmente
+
+- Aprofundando em desenvolvimento de software
+- Aplicando produtividade e análise de dados ao Direito
+
+---
+
+📍 [github.com/libonatii](https://github.com/libonatii)
