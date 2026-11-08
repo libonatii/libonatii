@@ -26,7 +26,9 @@
 <div align="center">
 
 <a href="https://github.com/libonatii/Lume">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=libonatii&repo=Lume&theme=tokyonight&hide_border=true&border_radius=16" alt="Lume" />
+  <img src="https://img.shields.io/github/last-commit/libonatii/Lume?label=%C3%9Altima%20atualiza%C3%A7%C3%A3o&style=for-the-badge&color=7c3aed" alt="Última atualização" />
+  <img src="https://img.shields.io/github/languages/top/libonatii/Lume?label=Linguagem&style=for-the-badge&color=2563eb" alt="Linguagem principal" />
+  <img src="https://img.shields.io/github/repo-size/libonatii/Lume?label=Tamanho&style=for-the-badge&color=f59e0b" alt="Tamanho" />
 </a>
 
 **Lume** é uma plataforma social de estudos: biblioteca de cursos com importação por link, plano de estudo, sessões, conquistas, amigos e ranking. Tem aplicativo de desktop e extensão de navegador.
@@ -70,8 +72,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=libonatii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=libonatii&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Linguagens" />
+**Linguagens mais usadas**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-84%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-9%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-7%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![Repositórios públicos](https://img.shields.io/badge/Reposit%C3%B3rios_p%C3%BAblicos-3-2563eb?style=for-the-badge&logo=github)
+![Seguidores](https://img.shields.io/github/followers/libonatii?label=Seguidores&style=for-the-badge&color=7c3aed)
 
 <br/>
 
