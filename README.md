@@ -1,31 +1,116 @@
-# Ana
+<div align="center">
 
-Estudante de Direito e estagiária do Tribunal de Justiça. Construo software para tornar o estudo e o trabalho mais organizados, com interesse em automação e análise de dados aplicadas ao Direito.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=200&section=header&text=Oi!%20Eu%20sou%20a%20Ana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Direito%20%C3%97%20Tecnologia&descAlignY=58&descSize=20" alt="Banner" />
 
----
+<a href="https://github.com/libonatii">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&pause=1500&color=7C3AED&center=true&vCenter=true&width=560&lines=Estudante+de+Direito+%E2%9A%96%EF%B8%8F;Estagi%C3%A1ria+do+Tribunal+de+Justi%C3%A7a+%F0%9F%8F%9B%EF%B8%8F;Construindo+software+com+React+e+Astro+%F0%9F%9A%80;Automa%C3%A7%C3%A3o+e+dados+aplicados+ao+Direito+%F0%9F%93%8A" alt="Typing SVG" />
+</a>
 
-## O que construo
+<br/>
 
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [**Lume**](https://github.com/libonatii/Lume) · [site](https://lume.lume-prototype.workers.dev) | Plataforma social de estudos: biblioteca de cursos com importação por link, plano de estudo, sessões, conquistas, amigos e ranking. Inclui aplicativo de desktop e extensão de navegador. | JavaScript, React, Astro, Electron, Cloudflare Workers, GitHub Actions |
-| [EstudosLogica](https://github.com/libonatii/EstudosLogica) | Exercícios e estudos de lógica de programação. | HTML |
+![Foco](https://img.shields.io/badge/Foco-Direito_%C3%97_Tecnologia-2563eb?style=for-the-badge)
+![Projeto](https://img.shields.io/badge/Projeto_atual-Lume-7c3aed?style=for-the-badge)
+![Status](https://img.shields.io/badge/Aprendizado-cont%C3%ADnuo-f59e0b?style=for-the-badge)
 
----
+<br/>
 
-## O que uso
+<img src="https://komarev.com/ghpvc/?username=libonatii&label=Visitas+ao+perfil&color=7c3aed&style=for-the-badge" alt="Contador de visitas" />
+<a href="https://github.com/libonatii?tab=followers"><img src="https://img.shields.io/github/followers/libonatii?label=Seguidores&style=for-the-badge&logo=github&color=2563eb" alt="Seguidores" /></a>
 
-**Desenvolvimento:** JavaScript · React · Astro · Node.js · HTML · CSS
-**Ferramentas:** Git · GitHub · GitHub Actions · VS Code
-**Criação:** Photoshop · Premiere Pro · Sony Vegas
-
----
-
-## Atualmente
-
-- Aprofundando em desenvolvimento de software
-- Aplicando produtividade e análise de dados ao Direito
+</div>
 
 ---
 
-📍 [github.com/libonatii](https://github.com/libonatii)
+## ✳ Projeto em destaque
+
+<div align="center">
+
+<a href="https://github.com/libonatii/Lume">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=libonatii&repo=Lume&theme=tokyonight&hide_border=true&border_radius=16" alt="Lume" />
+</a>
+
+**Lume** é uma plataforma social de estudos: biblioteca de cursos com importação por link, plano de estudo, sessões, conquistas, amigos e ranking. Tem aplicativo de desktop e extensão de navegador.
+
+[![Site](https://img.shields.io/badge/Abrir_o_site-lume-2563eb?style=for-the-badge&logo=cloudflare&logoColor=white)](https://lume.lume-prototype.workers.dev)
+[![Repositório](https://img.shields.io/badge/Ver_c%C3%B3digo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/libonatii/Lume)
+
+</div>
+
+---
+
+## 🛠️ Stack
+
+**Desenvolvimento**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Infra e ferramentas**
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Criação**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Sony Vegas](https://img.shields.io/badge/Sony_Vegas-1A5A96?style=for-the-badge)
+
+---
+
+## 📊 No GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=libonatii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" alt="Estatísticas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libonatii&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Linguagens" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=libonatii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Troféus" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=libonatii&bg_color=0d1117&color=7c3aed&line=2563eb&point=f59e0b&area=true&hide_border=true" alt="Gráfico de atividade" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/libonatii/libonatii/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/libonatii/libonatii/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/libonatii/libonatii/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🌱 Atualmente
+
+- 💻 Aprofundando em desenvolvimento de software
+- ⚖️ Produtividade aplicada ao Direito
+- 📈 Análise de dados aplicada ao Direito
+
+---
+
+<div align="center">
+
+✨ *"A justiça do futuro será aquela que equilibrar tradição e inovação."* — Geoffrey C. Hazard Jr.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=100&section=footer" alt="Rodapé" />
+
+</div>
