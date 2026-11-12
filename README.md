@@ -33,7 +33,7 @@
 
 **Lume** é uma plataforma social de estudos: biblioteca de cursos com importação por link, plano de estudo, sessões, conquistas, amigos e ranking. Tem aplicativo de desktop e extensão de navegador.
 
-[![Site](https://img.shields.io/badge/Abrir_o_site-lume-2563eb?style=for-the-badge&logo=cloudflare&logoColor=white)](https://lume.lume-prototype.workers.dev)
+[![Site](https://img.shields.io/badge/Abrir_o_site-lumeacademy.site-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lumeacademy.site)
 [![Repositório](https://img.shields.io/badge/Ver_c%C3%B3digo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/libonatii/Lume)
 
 </div>
