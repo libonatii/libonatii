@@ -1,4 +1,4 @@
-<img src="./capa.svg" width="100%" alt="Ana · Direito, código e criação visual" />
+<img src="./capa.svg" width="100%" alt="Oi, eu sou a Ana — @libonatii. Constelação azul com uma estrela dourada." />
 
 Sou estudante de Direito, faço estágio no Tribunal de Justiça e estou **aprendendo engenharia de software**. Gosto tanto de montar uma interface quanto de editar um vídeo.
 

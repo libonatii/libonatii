@@ -1,55 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="246" viewBox="0 0 1000 246" role="img" aria-labelledby="titulo descricao">
-  <title id="titulo">Ana · Direito, código e criação visual</title>
-  <desc id="descricao">Uma balança, uma janela de código e uma linha do tempo de edição ilustram as três áreas de interesse de Ana.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="238" viewBox="0 0 1040 238" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Oi, eu sou a Ana.</title>
+  <desc id="descricao">Capa do perfil @libonatii. Uma constelação azul converge para uma estrela dourada.</desc>
   <defs>
-    <linearGradient id="fundo" x2="1" y2=".55">
-      <stop stop-color="#211c37"/><stop offset=".56" stop-color="#2e2443"/><stop offset="1" stop-color="#4c3459"/>
+    <linearGradient id="noite" x2="1" y2=".15" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101722"/><stop offset=".65" stop-color="#172b40"/><stop offset="1" stop-color="#1e3a52"/>
     </linearGradient>
-    <pattern id="grade" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#e3ceef" opacity=".3"/>
+    <pattern id="malha" width="19" height="19" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#c6dff1" opacity=".24"/>
     </pattern>
-    <clipPath id="borda"><rect width="1000" height="246" rx="18"/></clipPath>
+    <clipPath id="moldura"><rect width="1040" height="238" rx="18"/></clipPath>
   </defs>
-  <g clip-path="url(#borda)">
-    <rect width="1000" height="246" fill="url(#fundo)"/>
-    <rect x="448" width="552" height="246" fill="url(#grade)"/>
+  <g clip-path="url(#moldura)">
+    <rect width="1040" height="238" fill="url(#noite)"/>
+    <path d="M568 0h472v238H468z" fill="url(#malha)"/>
+    <g fill="none" stroke="#8ab4d1" opacity=".35">
+      <circle cx="842" cy="107" r="62"/><circle cx="842" cy="107" r="110"/>
+      <circle cx="842" cy="107" r="164" stroke-dasharray="2 7"/>
+    </g>
+    <path d="m584 217 75-52 66 11 117-69 65 24 104-87" fill="none" stroke="#9bc9e4" stroke-width="2"/>
+    <g fill="#c0e3f4">
+      <circle cx="584" cy="217" r="3"/><circle cx="659" cy="165" r="5"/>
+      <circle cx="725" cy="176" r="4"/><circle cx="907" cy="131" r="5"/><circle cx="1011" cy="44" r="3"/>
+    </g>
+    <path d="m842 75 6 25 26 7-26 6-6 26-6-26-26-6 26-7z" fill="#f6c165"/>
     <g font-family="Verdana, sans-serif">
-      <text x="46" y="52" font-family="monospace" font-size="22" fill="#dac8ed">@libonatii</text>
-      <text x="39" y="155" font-family="Georgia, serif" font-weight="bold" font-size="116" letter-spacing="-6" fill="#fff6e8">Ana<tspan fill="#f4ad94">.</tspan></text>
-      <text x="47" y="205" font-size="23" fill="#efdef2">Direito, código e criação visual</text>
-    </g>
-    <!-- Direito: a balança em uma página pautada. -->
-    <g transform="translate(474 40) rotate(-9 75 78)">
-      <rect x="4" y="7" width="138" height="159" rx="11" fill="#181425" opacity=".5"/>
-      <rect width="138" height="159" rx="11" fill="#f3d1bd"/>
-      <g fill="none" stroke="#683e46" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M23 22h30m-30 7h17" stroke-width="3" opacity=".55"/>
-        <path d="M69 46v65m-14 3h28M40 65l57-10m-54 9-13 23h26zm49-8-13 23h26z" stroke-width="2.8"/>
-        <path d="M30 87q13 18 26 0m23-8q13 18 26 0" fill="#945c5a" stroke-width="2"/>
-        <circle cx="69" cy="55" r="4" fill="#683e46"/>
-        <path d="M25 133h86m-86 7h64" opacity=".45"/>
-      </g>
-    </g>
-    <!-- Desenvolvimento: janela com uma expressão e linhas de código. -->
-    <g transform="translate(620 42) rotate(5 75 75)">
-      <rect x="4" y="7" width="155" height="149" rx="12" fill="#181425" opacity=".5"/>
-      <rect width="155" height="149" rx="12" fill="#b9ade9"/>
-      <rect x="10" y="11" width="135" height="128" rx="6" fill="#332a4d"/>
-      <g fill="#cdbff0"><circle cx="23" cy="23" r="2.6"/><circle cx="33" cy="23" r="2.6"/><circle cx="43" cy="23" r="2.6"/></g>
-      <g fill="none" stroke="#e1d4ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-        <path d="m54 50-14 13 14 12m45-25 14 13-14 12m-18-28-9 33"/>
-      </g>
-      <g stroke-width="4" stroke-linecap="round"><path d="M27 99h22m9 0h37m-57 11h28" stroke="#d5b8ec"/><path d="M75 110h36m-84 11h46" stroke="#edb9a3"/></g>
-    </g>
-    <!-- Edição de vídeo: monitor e trilhas com indicador de reprodução. -->
-    <g transform="translate(795 62) rotate(-5 72 70)">
-      <rect x="4" y="7" width="150" height="135" rx="12" fill="#181425" opacity=".5"/>
-      <rect width="150" height="135" rx="12" fill="#a6d8d0"/>
-      <rect x="13" y="12" width="124" height="58" rx="5" fill="#314c53"/>
-      <path d="m66 25 25 16-25 16z" fill="#c1eee2"/>
-      <g fill="#517b7d"><rect x="15" y="83" width="41" height="9" rx="2"/><rect x="60" y="83" width="72" height="9" rx="2"/></g>
-      <g fill="#38616a"><rect x="28" y="97" width="54" height="9" rx="2"/><rect x="86" y="97" width="40" height="9" rx="2"/></g>
-      <path d="M15 119h117" stroke="#699b97"/><path d="M74 78v44" stroke="#623c59" stroke-width="2"/><path d="m69 76 5 7 5-7z" fill="#623c59"/>
+      <text x="52" y="80" font-size="26" fill="#bed7e6">Oi, eu sou a</text>
+      <text x="47" y="171" font-size="100" font-weight="700" letter-spacing="-6" fill="#f6f3ec">Ana<tspan fill="#f6c165">.</tspan></text>
+      <text x="298" y="169" font-family="monospace" font-size="25" fill="#b4d2e6">@libonatii</text>
     </g>
   </g>
 </svg>
