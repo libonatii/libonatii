@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="VEGAS Pro">
+  <rect width="48" height="48" rx="10" fill="#161b30"/>
+  <rect x="7" y="7" width="34" height="34" rx="5" fill="#151937" stroke="#7185ff" stroke-width="2"/>
+  <path d="m13 16 9 19h4l9-19h-5l-6 13-6-13z" fill="#90a2ff"/>
+</svg>

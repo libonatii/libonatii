@@ -1,29 +1,37 @@
-<img src="./capa.svg" width="100%" alt="Oi, eu sou a Ana — @libonatii" />
+<img src="./capa.svg" width="100%" alt="Ana · Direito, código e criação visual" />
 
-Estudo Direito, faço estágio no Tribunal de Justiça e estou **aprendendo engenharia de software** enquanto desenvolvo o Lume. Também me interesso por automação e análise de dados aplicadas ao Direito.
+Sou estudante de Direito, faço estágio no Tribunal de Justiça e estou **aprendendo engenharia de software**. Gosto tanto de montar uma interface quanto de editar um vídeo.
 
-## ✦ Lume
+No Direito, me interesso por automação e análise de dados. Como comparar decisões sobre o mesmo tema? Que parte de uma pesquisa repetitiva dá para automatizar? É nesse encontro entre a prática jurídica e a tecnologia que quero continuar estudando.
 
-O Lume é a plataforma social de estudos que estou construindo. Dá para fechar um PDF e voltar à página em que você parou, encaixar aulas no tempo disponível da semana e acompanhar conquistas com amigos.
+## Com o que trabalho
 
-[Abrir o Lume ↗](https://lumeacademy.site) · [Explorar o código ↗](https://github.com/libonatii/Lume)
+### Imagem e vídeo
 
-**E se o navegador enviar a mesma conclusão de aula duas vezes?** No Lume, o servidor registra a conclusão e os pontos na mesma transação. Se o pedido se repetir, a pessoa recebe os pontos uma única vez. Esse comportamento é um exemplo de *idempotência*.
+<img src="https://skillicons.dev/icons?i=ps,pr" height="46" alt="Adobe Photoshop e Adobe Premiere Pro" /> <img src="./vegas.svg" width="46" height="46" alt="VEGAS Pro" />
 
-## Tecnologias que uso no Lume
+No **Photoshop**, trabalho com composição e cor. Quando edito vídeos, uso **Premiere Pro** e **VEGAS Pro** para montar sequências e ajustar o ritmo dos cortes.
 
-| Onde uso | O que faço com elas |
-| --- | --- |
-| **Interface** | Escrevo as telas em **JavaScript e React**. O **Astro** gera o site e uso **CSS** para adaptar a leitura ao celular e ao desktop. |
-| **API e dados** | A mesma API roda em **Node.js** com **SQLite** localmente e em **Cloudflare Workers** com **D1** na nuvem. Os PDFs e as imagens ficam no **R2**. |
-| **Mensagens** | Uso **WebSocket** e **Durable Objects** para avisar quem está conectado quando chega uma mensagem. |
-| **Desktop e extensão** | Com **Electron**, levo o Lume para uma janela própria. A extensão **Manifest V3**, empacotada com **esbuild**, lê o curso aberto no navegador para a pessoa revisar e importar. |
-| **Testes** | Verifico regras de negócio com **node:test** e percorro fluxos reais de navegador com **Playwright**. A suíte roda no **GitHub Actions**. |
+### Interfaces e aplicações
 
-Também trabalho com imagem e vídeo usando **Photoshop**, **Premiere Pro** e **Vegas**.
+<img src="https://skillicons.dev/icons?i=js,html,css" height="46" alt="JavaScript, HTML e CSS" /> <img src="https://skillicons.dev/icons?i=react,astro" height="46" alt="React e Astro" /> <img src="https://skillicons.dev/icons?i=nodejs,sqlite" height="46" alt="Node.js e SQLite" />
+
+Desenvolvo interfaces com **JavaScript, HTML, CSS, React e Astro**. Do lado do servidor, uso **Node.js** e **SQLite**. Estou aprendendo a decidir o que a interface pode resolver e quais regras precisam ficar na API.
+
+### Infraestrutura e testes
+
+<img src="https://skillicons.dev/icons?i=cloudflare,electron" height="46" alt="Cloudflare e Electron" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" height="46" width="46" alt="Playwright" /> <img src="https://skillicons.dev/icons?i=git,githubactions,vscode" height="46" alt="Git, GitHub Actions e VS Code" />
+
+No Lume, uso **Cloudflare Workers, D1 e R2** para a API, os dados e os arquivos. Com **Electron**, levo a aplicação para o desktop. Testo as regras com **node:test** e os fluxos de navegador com **Playwright**. O **GitHub Actions** roda essas verificações a cada mudança no código.
+
+## Projeto em destaque · Lume
+
+Estou construindo uma **plataforma social de estudos** onde dá para organizar materiais, retomar uma leitura e acompanhar conquistas com amigos. O projeto me dá problemas concretos para estudar. Se o navegador enviar duas vezes a conclusão de uma aula, por exemplo, como garantir que os pontos entrem só uma vez? É uma das regras que verifico nos testes da API.
+
+[Abrir o Lume ↗](https://lumeacademy.site) · [Ver o código ↗](https://github.com/libonatii/Lume)
 
 <details>
-<summary>Meu histórico de contribuições</summary>
+<summary>Minha atividade no GitHub</summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/libonatii/libonatii/output/github-contribution-grid-snake-dark.svg" />
