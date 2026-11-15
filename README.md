@@ -1,8 +1,8 @@
 <img src="./capa-constelacao-lume.svg" width="100%" alt="Oi, eu sou a Ana — @libonatii. Constelação azul com uma estrela dourada." />
 
-Sou estudante de Direito, faço estágio no Tribunal de Justiça e estou **aprendendo engenharia de software**. Gosto tanto de montar uma interface quanto de editar um vídeo.
+Sou estudante de Direito e entusiasta de tecnologia. 
 
-No Direito, me interesso por automação e análise de dados. Como comparar decisões sobre o mesmo tema? Que parte de uma pesquisa repetitiva dá para automatizar? É nesse encontro entre a prática jurídica e a tecnologia que quero continuar estudando.
+No Direito, me interesso pela análise de dados, legaltech e solução de problemas. É nesse encontro entre a prática jurídica e a tecnologia que quero continuar estudando.
 
 ## Com o que trabalho
 
