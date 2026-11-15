@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="238" viewBox="0 0 1040 238" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Oi, eu sou a Ana.</title>
+  <desc id="descricao">Capa do perfil @libonatii. Uma constelação azul converge para uma estrela dourada.</desc>
+  <defs>
+    <linearGradient id="noite" x2="1" y2=".15" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101722"/><stop offset=".65" stop-color="#172b40"/><stop offset="1" stop-color="#1e3a52"/>
+    </linearGradient>
+    <pattern id="malha" width="19" height="19" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#c6dff1" opacity=".24"/>
+    </pattern>
+    <clipPath id="moldura"><rect width="1040" height="238" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#moldura)">
+    <rect width="1040" height="238" fill="url(#noite)"/>
+    <path d="M568 0h472v238H468z" fill="url(#malha)"/>
+    <g fill="none" stroke="#8ab4d1" opacity=".35">
+      <circle cx="842" cy="107" r="62"/><circle cx="842" cy="107" r="110"/>
+      <circle cx="842" cy="107" r="164" stroke-dasharray="2 7"/>
+    </g>
+    <path d="m584 217 75-52 66 11 117-69 65 24 104-87" fill="none" stroke="#9bc9e4" stroke-width="2"/>
+    <g fill="#c0e3f4">
+      <circle cx="584" cy="217" r="3"/><circle cx="659" cy="165" r="5"/>
+      <circle cx="725" cy="176" r="4"/><circle cx="907" cy="131" r="5"/><circle cx="1011" cy="44" r="3"/>
+    </g>
+    <path d="m842 75 6 25 26 7-26 6-6 26-6-26-26-6 26-7z" fill="#f6c165"/>
+    <g font-family="Verdana, sans-serif">
+      <text x="52" y="80" font-size="26" fill="#bed7e6">Oi, eu sou a</text>
+      <text x="47" y="171" font-size="100" font-weight="700" letter-spacing="-6" fill="#f6f3ec">Ana<tspan fill="#f6c165">.</tspan></text>
+      <text x="298" y="169" font-family="monospace" font-size="25" fill="#b4d2e6">@libonatii</text>
+    </g>
+  </g>
+</svg>
